@@ -1,7 +1,6 @@
 # plugin-rails
 Alias for executing database migrations.
 
-[![][travis-badge]][travis-link]
 ![][license-badge]
 
 <div align="center">
